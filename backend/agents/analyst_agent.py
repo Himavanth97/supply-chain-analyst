@@ -11,7 +11,7 @@ class SupplyChainAnalystAgent:
     Multimodal AI agent capable of writing, executing, and self-correcting 
     Python pandas/matplotlib code to analyze supply chain datasets and dashboards.
     """
-    def __init__(self, api_key: str = None, model_name: str = "gemini-1.5-flash"):
+    def __init__(self, api_key: str = None, model_name: str = "gemini-2.5-flash"):
         self.api_key = api_key or os.getenv("GEMINI_API_KEY")
         if not self.api_key:
             raise ValueError("GEMINI_API_KEY environment variable is not set. Please set it to enable agent capabilities.")
