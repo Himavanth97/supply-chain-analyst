@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Supplier,Warehouse_Location,In_Stock_Quantity,Unit_Cost_USD,Reorder_Level,Lead_Time_Days,Discontinued
+P001,Steel Bracket,Hardware,Apex Metal Ltd,Aisle 4A,1200,$4.50,300,5,No
+P002,Copper Tube,Hardware,Apex Metal Ltd,Aisle 4B,450,$12.00,100,7,No
+P003,Digital Thermostat,Electronics,Sensors Inc,,25,Unknown,10,12,No
+P004,HVAC Filter,Filters,,Aisle 12C,,$15.20,50,4,No
+P005,Heavy Duty Bolt,Hardware,Apex Metal Ltd,Aisle 4A,5000,$0.85,1000,5,No
+P006,Industrial Valve,Plumbing,Flow Control Corp,Aisle 8F,0,$125.00,10,25,Yes
+P007,LED Work Light,electronics,LightCorp,,350,$24.99,50,14,No
+P008,Braided Hose,Plumbing,Flow Control Corp,Aisle 8F,-10,$8.75,25,,No
+P009,Pressure Gauge,Sensors,Sensors Inc,Aisle 3A,15,$65.00,5,10,No
+P010,Air Compressor,,Machinery World,Aisle 15,,$450.00,2,30,No
+P011,Replacement Fan Belt,Hardware,Apex Metal Ltd,Aisle 4C,85,$18.50,20,5,No
+P012,Hydraulic Fluid,Plumbing,Flow Control Corp,Aisle 8G,120,$35.00,30,,0
+P013,AC Capacitor,ELECTRONICS,Sensors Inc,Aisle 3C,90,$9.50,15,6,No
+P014,Duct Tape (Silver),Hardware,,Aisle 12A,1500,,200,2,No
+P015,Security Camera,Electronics,LightCorp,Aisle 3D,45,$149.00,10,21,1
